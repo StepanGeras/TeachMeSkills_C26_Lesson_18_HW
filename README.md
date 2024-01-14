@@ -1,7 +1,7 @@
 # TeachMeSkills_C26_Lesson_18_HW
 Lesson 18
 
-Problem 1
+Task 1
 Create a collection of the ArrayList class and fill it with random elements of type Integer.
 Using Streams:
 - Remove duplicates
@@ -11,7 +11,7 @@ Using Streams:
 - Display the number of elements in the stream
 - Display the arithmetic mean of all numbers in the stream
 
-Problem 2
+Task 2
 Create a collection of the ArrayList class with the values ​​of the names of all students in the group
 Using Streams:
 - Select all names starting with "a" (regardless of upper/lower case letters)
